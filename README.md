@@ -37,7 +37,6 @@ You are required to model the price of houses with the available independent var
 - Building a Linear Model using Lasso
 - Building a Linear Model using Ridge
 - Making Predictions
-- 
 
 ## Libraries Used
 - Pandas - version 1.4.1
